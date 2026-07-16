@@ -16,7 +16,7 @@
   
 - 💬 Ask me about **Java, Python, SQL**
   
-- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](https://www.linkedin.com/in/msumanthteja-cse)
+- 👨‍💻 This is My portfolio to check my details in this website [My_Portfolio](https://mopidevisumanthteja.netlify.app/)
 
 ## Email ID
 - 📫 How to reach me **msteja1002@gmail.com**
