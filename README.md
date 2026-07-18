@@ -36,15 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth1025&" alt="Sumanth1025" /></p>
 <br><br>
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sumanth1025&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth1025&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+## Github Stats  
+<p><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth1025&hide_border=true&layout=compact" align="center" style="width: 50%" /></div> </p>
