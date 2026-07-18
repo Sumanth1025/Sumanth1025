@@ -37,6 +37,6 @@
 <br><br>
 
 ## Github Stats  
-<p  align="center"><div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sumanth1025&show_icons=true&theme=tokyonight" /></div>
+<p align="center"><div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sumanth1025&layout=compact&theme=tokyonight" /></div>
 </p>
