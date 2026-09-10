@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth1025&" alt="Sumanth1025" /></p>
 <br><br>
 
-## Github Stats  
+## GitHub Stats
 
 <p align="center">
   <img
@@ -47,4 +47,13 @@
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth1025&layout=compact&theme=tokyonight&hide_border=true"
   />
-</p>  
+</p>
+
+## GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Sumanth1025&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
