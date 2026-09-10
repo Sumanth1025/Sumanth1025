@@ -23,7 +23,7 @@
 <br><br>
 
 ## Resume
-- 📄 Know about my Resume [Resume](https://drive.google.com/file/d/19m7_Hz5FAT1CB8en28S9AdaQ7cbyR0l-/view?usp=sharing)
+- 📄 Know about my Resume [Resume](https://drive.google.com/file/d/1_d2qHeX7kaOePO8dL6STPqISjhLVNS1O/view?usp=sharing)
 
 ## Connect with 
 <p align="left">
