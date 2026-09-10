@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumanth1025&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth1025" /> </p>
 
-- 🔭 I’m Recently Complete my Graduation on Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+- 🎓 I recently completed my graduation from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology.
 
-- 🔭 I’m currently Looking for a **JOB**
+- 🔎 I’m currently looking for a **Job Opportunity**.
 
-- 🌱 I’m currently learning DATA SCIENCE WITH AI
+- 🌱 I’m currently learning **Data Science with AI**
   
-- 📞 Mobile Number **7780281411**
+- 📞 Available for professional opportunities
   
 - 💬 Ask me about **Java, Python, SQL**
   
