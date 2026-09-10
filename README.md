@@ -38,15 +38,15 @@
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Sumanth1025&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumanth1025&theme=tokyonight"
     alt="GitHub Stats"
+    width="45%"
   />
-
+  &nbsp;&nbsp;
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth1025&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumanth1025&theme=tokyonight"
     alt="Top Languages"
+    width="45%"
   />
 </p>
 
