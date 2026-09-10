@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="500px" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumanth1025&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanth1025" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumanth1025&label=Profile%20views&color=0e75b6&style=flat" alt="alt="Profile views"" /> </p>
 
 - 🎓 I recently completed my graduation from Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology.
 
